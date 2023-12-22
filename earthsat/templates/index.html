@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="author" content="A. Taillard">
+        <title>Earthsat endpoints</title>
+    </head>
+    <body>
+        <ul>
+            <li>
+                <p>
+                    GET - Show a list of all satellites in the database. 
+                    <br />
+                    <a href="api/satellites">api/satellites</a>
+                </p>
+            </li>
+            <li>
+                <p>
+                    GET - Show a list of all operators in the database
+                    <br />
+                    <a href="api/operators">api/operators</a>
+                </p>
+            </li>
+            <li>
+                <p>
+                    GET - api/satellite/[satellite id] - show the details associated with the satellite corresponding to the given ID. Can Also be used to update and delete the satellite.
+                    <br />
+                    <a href="api/satellite/1238617">api/satellites/1238617</a>
+                </p>
+            </li>
+            <li>
+                <p>
+                    GET - api/operator/[operator id] - show the details associated with the operator corresponding to the given ID. Can Also be used to update and delete the operator.
+                    <br />
+                    <a href="api/operator/3264">api/operator/3264</a>
+                </p>
+            </li>
+            <li>
+                <p>
+                    POST - Add a new satellite to the database. The URL below link to a page where a form allow us to make a post request. Validation is handled automatically through the DRF serializer. See below for a valid JSON to test the endpoint.
+                    <br />
+                    <a href="api/satellite/add">api/satellite/add</a>
+                </p>
+            </li>
+            <li>
+                <p>
+                    GET - api/satellite/query?[param1]=[value]&[param2]=[value]&... - Filter the satellites list based on the query parameters. Accept queries of any complexity.
+                    <br />
+                    <a href="api/satellites/query?country_un_registery=USA">api/satellites/query?country_un_registery=USA</a>
+                    - Show all satellites registered in the USA <br />
+                    <a href="api/satellites/query?country_un_registery=USA&country_un_registery=Finland">api/satellites/query?country_un_registery=USA&country_un_registery=Finland</a>
+                    - Show all satellites registered in the USA OR Finland <br />
+                    <a href="api/satellites/query?country_un_registery=USA&orbit_class=GEO">api/satellites/query?country_un_registery=USA&orbit_class=GEO</a>
+                    - Show all satellites registered in the USA with a geostationnary orbit
+                </p>
+            </li>
+        </ul>
+        <p>The code below can be use to test the add endpoint</p>
+        <pre>
+            <code>
+                {
+                    "operator": {
+                        "id":3037,
+                        "name": "Aalto University",
+                        "country": "Finland"
+                    },
+                    "name": "NewSat",
+                    "country_un_registery": "",
+                    "usage1": "",
+                    "usage2": "",
+                    "purpose1": "",
+                    "purpose2": "",
+                    "orbit_class": "ELL",
+                    "perigee_km": null,
+                    "apogee_km": null,
+                    "inclination_deg": null,
+                    "period_minutes": null,
+                    "launch_mass_kg": null,
+                    "launch_date": null,
+                    "expected_lifetime_yrs": null,
+                    "launch_site": "",
+                    "launch_vehicle": ""
+                }
+            </code>
+        </pre>
+    </body>
+    <body>
