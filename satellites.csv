@@ -416,8 +416,8 @@ DirecTV-15;;Commercial;Communications;GEO;35685;35809;0.1;1434.07;5500;27.05.201
 DirecTV-5;USA;Commercial;Communications;GEO;35773;35799;0.07;1436.08;4300;07.05.2002;15;Baikonur Cosmodrome;Proton K;DirecTV, Inc.;USA
 DirecTV-8;USA;Commercial;Communications;GEO;35777;35796;0.02;1436.1;3800;22.05.2005;12;Baikonur Cosmodrome;Proton M/Breeze M;DirecTV, Inc.;USA
 DirecTV-9S;USA;Commercial;Communications;GEO;35774;35798;0.03;1436.1;5500;13.10.2006;15;Guiana Space Center;Ariane 5 ECA;DirecTV, Inc.;USA
-Diwata-2B;;Civil;Earth Observation;LEO;595;616;97.8;96.8;56;29.10.2018;1;Tanegashima Space Center;H2A;Philippines’ Department of Science and Technology, University of the Philippines Diliman, and Japan’s Hokkaido University and Tohoku University;Japan
-DLR Tubsat;;Government;Earth Science;LEO;712;732;98.6;99.2;45;26.05.1999;1;Satish Dhawan Space Centre;PSLV C2;Deutsches Zentrum für Luft- und Raumfahrt;Germany
+Diwata-2B;;Civil;Earth Observation;LEO;595;616;97.8;96.8;56;29.10.2018;1;Tanegashima Space Center;H2A;Philippinesâ€™ Department of Science and Technology, University of the Philippines Diliman, and Japanâ€™s Hokkaido University and Tohoku University;Japan
+DLR Tubsat;;Government;Earth Science;LEO;712;732;98.6;99.2;45;26.05.1999;1;Satish Dhawan Space Centre;PSLV C2;Deutsches Zentrum fÃ¼r Luft- und Raumfahrt;Germany
 DMC 3-1;United Kingdom;Commercial;Earth Observation;LEO;636;663;98;97.71;447;10.07.2015;10;Satish Dhawan Space Centre;PSLV;Surrey Satellite Technology Ltd.;United Kingdom
 DMC 3-2;United Kingdom;Commercial;Earth Observation;LEO;636;663;98;97.71;447;10.07.2015;10;Satish Dhawan Space Centre;PSLV;Surrey Satellite Technology Ltd.;United Kingdom
 DMC 3-3;United Kingdom;Commercial;Earth Observation;LEO;636;661;98;97.69;447;10.07.2015;10;Satish Dhawan Space Centre;PSLV;Surrey Satellite Technology Ltd.;United Kingdom
@@ -483,14 +483,14 @@ Dove 4a-2;USA;Commercial;Earth Observation;LEO;494;510;97.5;94.7;4;01.04.2019;3;
 Dove 4a-5;USA;Commercial;Earth Observation;LEO;493;506;97.5;94.6;4;01.04.2019;3;Satish Dhawan Space Centre;PSLV;Planet Labs, Inc.;USA
 Dove 4a-9;USA;Commercial;Earth Observation;LEO;493;506;97.5;94.6;4;01.04.2019;3;Satish Dhawan Space Centre;PSLV;Planet Labs, Inc.;USA
 Dove 4e'-1;USA;Commercial;Earth Observation;LEO;511;527;97.5;94.2;4;28.10.2020;3;Rocket Lab Launch Complex 1;Electron;Planet Labs, Inc.;USA
-Dove 4e’-2;USA;Commercial;Earth Observation;LEO;505;524;97.5;94.2;4;28.10.2020;3;Rocket Lab Launch Complex 1;Electron;Planet Labs, Inc.;USA
-Dove 4e’-3 ;USA;Commercial;Earth Observation;LEO;507;523;97.5;94.2;4;28.10.2020;3;Rocket Lab Launch Complex 1;Electron;Planet Labs, Inc.;USA
-Dove 4e’-4 ;USA;Commercial;Earth Observation;LEO;504;522;97.5;94.2;4;28.10.2020;3;Rocket Lab Launch Complex 1;Electron;Planet Labs, Inc.;USA
-Dove 4e’-5 ;USA;Commercial;Earth Observation;LEO;506;525;97.5;94.2;4;28.10.2020;3;Rocket Lab Launch Complex 1;Electron;Planet Labs, Inc.;USA
-Dove 4e’-6 ;USA;Commercial;Earth Observation;LEO;507;524;97.5;94.2;4;28.10.2020;3;Rocket Lab Launch Complex 1;Electron;Planet Labs, Inc.;USA
+Dove 4eâ€™-2;USA;Commercial;Earth Observation;LEO;505;524;97.5;94.2;4;28.10.2020;3;Rocket Lab Launch Complex 1;Electron;Planet Labs, Inc.;USA
+Dove 4eâ€™-3 ;USA;Commercial;Earth Observation;LEO;507;523;97.5;94.2;4;28.10.2020;3;Rocket Lab Launch Complex 1;Electron;Planet Labs, Inc.;USA
+Dove 4eâ€™-4 ;USA;Commercial;Earth Observation;LEO;504;522;97.5;94.2;4;28.10.2020;3;Rocket Lab Launch Complex 1;Electron;Planet Labs, Inc.;USA
+Dove 4eâ€™-5 ;USA;Commercial;Earth Observation;LEO;506;525;97.5;94.2;4;28.10.2020;3;Rocket Lab Launch Complex 1;Electron;Planet Labs, Inc.;USA
+Dove 4eâ€™-6 ;USA;Commercial;Earth Observation;LEO;507;524;97.5;94.2;4;28.10.2020;3;Rocket Lab Launch Complex 1;Electron;Planet Labs, Inc.;USA
 Dove 4e'-8;USA;Commercial;Earth Observation;LEO;510;527;97.5;94.2;4;28.10.2020;3;Rocket Lab Launch Complex 1;Electron;Planet Labs, Inc.;USA
-Dove 4e’-8;USA;Commercial;Earth Observation;LEO;511;524;97.5;94.2;4;28.10.2020;3;Rocket Lab Launch Complex 1;Electron;Planet Labs, Inc.;USA
-Dove 4e’-9 ;USA;Commercial;Earth Observation;LEO;510;526;97.5;94.2;4;28.10.2020;3;Rocket Lab Launch Complex 1;Electron;Planet Labs, Inc.;USA
+Dove 4eâ€™-8;USA;Commercial;Earth Observation;LEO;511;524;97.5;94.2;4;28.10.2020;3;Rocket Lab Launch Complex 1;Electron;Planet Labs, Inc.;USA
+Dove 4eâ€™-9 ;USA;Commercial;Earth Observation;LEO;510;526;97.5;94.2;4;28.10.2020;3;Rocket Lab Launch Complex 1;Electron;Planet Labs, Inc.;USA
 Dove 4p-1;USA;Commercial;Earth Observation;LEO;498;516;97.5;94.7;4;27.11.2019;3;Satish Dhawan Space Centre;PSLV;Planet Labs, Inc.;USA
 Dove 4p-10;USA;Commercial;Earth Observation;LEO;499;515;97.5;94.7;4;27.11.2019;3;Satish Dhawan Space Centre;PSLV;Planet Labs, Inc.;USA
 Dove 4p-11;USA;Commercial;Earth Observation;LEO;499;515;97.5;94.7;4;27.11.2019;3;Satish Dhawan Space Centre;PSLV;Planet Labs, Inc.;USA
@@ -665,7 +665,7 @@ EROS B-1;;Military/Commercial;Earth Observation;LEO;508;514;97.4;94.8;350;25.04.
 ESAIL;Canada;Government;Earth Observation;LEO;520;531;97.5;95;112;02.09.2020;;Guiana Space Center;Vega;ESA/European Maritime Safety Agency;Multinational
 ESEO;;Civil;Earth Observation/Earth Science;LEO;572;588;97.7;96.3;45;03.12.2018;;Vandenberg AFB;Falcon 9;European University Network;Multinational
 Es'hail-1;France;Commercial;Communications;GEO;35725;35767;0.08;1434.03;;29.08.2013;15;Guiana Space Center;Ariane 5 ECA;EUTELSAT S.A./Es'hailSat;Multinational
-Es'hail-2;;Military/Commercial;Communications;GEO;35788;35798;0.1;1436.1;5300;15.11.2018;15;Cape Canaveral;Falcon 9;Es’hailSat;France
+Es'hail-2;;Military/Commercial;Communications;GEO;35788;35798;0.1;1436.1;5300;15.11.2018;15;Cape Canaveral;Falcon 9;Esâ€™hailSat;France
 E-Space 1;;Commercial;Technology Development;LEO;522;533;97.5;94.3;6;02.05.2022;1;Rocket Lab Launch Complex 1;Electron;ESPACE;USA
 E-Space 2;USA;Commercial;Technology Development;LEO;522;533;97.5;94.3;6;02.05.2022;1;Rocket Lab Launch Complex 1;Electron;ESPACE;USA
 E-Space 3;USA;Commercial;Technology Development;LEO;522;533;97.5;94.3;6;02.05.2022;1;Rocket Lab Launch Complex 1;Electron;ESPACE;USA
@@ -725,7 +725,7 @@ Express-AMU7;;Commercial;Communications;GEO;16334;52810;1.65;;1980;13.12.2021;15
 Express-AT1;Russia;Commercial;Communications;GEO;35781;35804;0.06;1436.4;1726;15.03.2014;15;Baikonur Cosmodrome;Proton M;Russian Satellite Communications Company;Russia
 Express-AT2;Russia;Commercial;Communications;GEO;35609;35715;0.1;1429.75;1427;15.03.2014;15;Baikonur Cosmodrome;Proton M;Russian Satellite Communications Company;Russia
 ExSeedSat-1;;Commercial;Communications;LEO;572;588;97.7;96.3;4;03.12.2018;2;Vandenberg AFB;Falcon 9;Exseed Space;India
-Eyesat;France;Government;Space Science;LEO;507;524;97.4;94.9;5;18.12.2019;;Guiana Space Center;Soyuz;CNES (Centre national d'études spatiales);Multinational
+Eyesat;France;Government;Space Science;LEO;507;524;97.4;94.9;5;18.12.2019;;Guiana Space Center;Soyuz;CNES (Centre national d'Ã©tudes spatiales);Multinational
 FACSAT-1;Colombia;Military;Earth Observation;LEO;476;500;97.5;95;5;29.11.2018;;Satish Dhawan Space Centre;PSLV;Colombian Air Force;Colombia
 FalconEye-2;United Arab Emirates;Military;Earth Observation;LEO;597;599;97.9;96.7;1180;02.12.2020;5;Guiana Space Center;Soyuz ST-A;Defense Ministry;United Arab Emirates
 Falconsat-3;USA;Military/Civil;Technology Development;LEO;538;540;35.4;95.4;46;09.03.2007;;Cape Canaveral;Atlas 5;US Air Force Academy;USA
@@ -756,7 +756,7 @@ Firebird-D;USA;Government/Civil;Space Science;LEO;444;675;99.1;97.7;2;31.01.2015
 FLP;Germany;Civil;Earth Observation/Space Science;LEO;586;606;97.6;96.6;120;14.07.2017;2;Baikonur Cosmodrome;Soyuz-2.1a;University of Stuttgart;Germany
 USA 46;USA;Military;Communications;GEO;35745;35829;8.97;1436.13;2310;25.09.1989;5;Cape Canaveral;Atlas Centaur;US Navy;USA
 FormoSat-5;;Government;Earth Observation;LEO;710;729;98.3;99.1;525;25.08.2017;5;Vandenberg AFB;Falcon 9;National Space Organization;Taiwan
-FORTÉ ;USA;Government;Earth Observation;LEO;790;823;70;101;215;29.08.1997;3;Vandenberg AFB;Pegasus XL;Los Alamos National Laboratory;USA
+FORTÃ‰ ;USA;Government;Earth Observation;LEO;790;823;70;101;215;29.08.1997;3;Vandenberg AFB;Pegasus XL;Los Alamos National Laboratory;USA
 Foshan 1;;Government;Technology Development;LEO;494;511;97.4;94.7;70;27.04.2021;;Taiyuan Launch Center;Long March 6;Jihua Laboratory;China
 FossaSat-2E2;;Commercial;Communications;LEO;522;535;97.5;94.7;1;13.01.2022;;Cape Canaveral;Falcon 9;Fossa Systems;Switzerland
 FossaSat-2E1;;Commercial;Communications;LEO;517;522;97.5;94.7;1;13.01.2022;;Cape Canaveral;Falcon 9;Fossa Systems;Switzerland
@@ -813,11 +813,11 @@ Galileo IOV-2 FM3;;Commercial;Navigation/Global Positioning;MEO;23214;23233;55.3
 Galileo IOV-2 FM4;;Commercial;Navigation/Global Positioning;MEO;23217;23227;55.3;844.69;700;12.10.2012;12;Guiana Space Center;Soyuz-Fregat;European Space Agency (ESA);Multinational
 Gaofen 1;China;Government;Earth Observation;LEO;630;654;98.07;97.56;1000;26.04.2013;8;Jiuquan Satellite Launch Center;Long March 2D;China National Academy of Sciences (CNSAS);China
 Gaofen 10;;Government;Earth Observation;LEO;611;621;97.8;97.03;1000;04.10.2019;8;Taiyuan Launch Center;Long March 4C;China National Academy of Sciences (CNSAS);China
-Gaofen 1-02;China;Government;Earth Observation;LEO;638;642;98;97.5;805;30.03.2018;8;Taiyuan Launch Center;Long March 4C;China’s Ministry of Land and Resources, Ministry of Environmental Protection, and Ministry of Agriculture;China
-Gaofen 1-03;China;Government;Earth Observation;LEO;638;640;98;97.5;805;30.03.2018;8;Taiyuan Launch Center;Long March 4C;China’s Ministry of Land and Resources, Ministry of Environmental Protection, and Ministry of Agriculture;China
-Gaofen 1-04;China;Government;Earth Observation;LEO;638;642;98;97.5;805;30.03.2018;8;Taiyuan Launch Center;Long March 4C;China’s Ministry of Land and Resources, Ministry of Environmental Protection, and Ministry of Agriculture;China
-Gaofen 1-05;China;Government;Earth Observation;LEO;677;695;98;98.4;805;08.05.2018;8;Taiyuan Launch Center;Long March 4C;China’s Ministry of Land and Resources, Ministry of Environmental Protection, and Ministry of Agriculture;China
-Gaofen 1-06;China;Government;Earth Observation;LEO;634;647;98;97.3;1064;03.06.2018;8;Jiuquan Satellite Launch Center;Long March 2D;China’s Ministry of Land and Resources, Ministry of Environmental Protection, and Ministry of Agriculture;China
+Gaofen 1-02;China;Government;Earth Observation;LEO;638;642;98;97.5;805;30.03.2018;8;Taiyuan Launch Center;Long March 4C;Chinaâ€™s Ministry of Land and Resources, Ministry of Environmental Protection, and Ministry of Agriculture;China
+Gaofen 1-03;China;Government;Earth Observation;LEO;638;640;98;97.5;805;30.03.2018;8;Taiyuan Launch Center;Long March 4C;Chinaâ€™s Ministry of Land and Resources, Ministry of Environmental Protection, and Ministry of Agriculture;China
+Gaofen 1-04;China;Government;Earth Observation;LEO;638;642;98;97.5;805;30.03.2018;8;Taiyuan Launch Center;Long March 4C;Chinaâ€™s Ministry of Land and Resources, Ministry of Environmental Protection, and Ministry of Agriculture;China
+Gaofen 1-05;China;Government;Earth Observation;LEO;677;695;98;98.4;805;08.05.2018;8;Taiyuan Launch Center;Long March 4C;Chinaâ€™s Ministry of Land and Resources, Ministry of Environmental Protection, and Ministry of Agriculture;China
+Gaofen 1-06;China;Government;Earth Observation;LEO;634;647;98;97.3;1064;03.06.2018;8;Jiuquan Satellite Launch Center;Long March 2D;Chinaâ€™s Ministry of Land and Resources, Ministry of Environmental Protection, and Ministry of Agriculture;China
 Gaofen 11;China;Government;Earth Observation;ELL;241;689;97.4;93.9;1000;31.07.2018;8;Taiyuan Launch Center;Long March 4B;China National Academy of Sciences (CNSAS);China
 Gaofen 11-02;China;Government;Earth Observation;ELL;244;691;97.3;93.9;1000;07.09.2020;8;Taiyuan Launch Center;Long March 4B;China National Academy of Sciences (CNSAS);China
 Gaofen 11-03;;Government;Earth Observation;ELL;243;695;97.4;93.9;3000;20.11.2021;8;Taiyuan Launch Center;Long March 4B;China National Academy of Sciences (CNSAS);China
@@ -942,8 +942,8 @@ GOES-15;USA;Government;Earth Observation;GEO;35786;35788;0.42;1436.14;3175;04.03
 GOES-R;USA;Government;Earth Observation;GEO;35790;35795;0;1436.1;5192;19.11.2016;20;Cape Canaveral;Atlas 5;NOAA (National Oceanographic and Atmospheric Administration);USA
 GOES-S;USA;Government;Earth Observation;GEO;35778;35795;0;1436.09;5211;01.03.2018;15;Cape Canaveral;Atlas 5;NOAA (National Oceanographic and Atmospheric Administration);USA
 GOES-T;;Government;Earth Observation;GEO;35781;35804;0.1;1436.1;5209;01.03.2022;15;Cape Canaveral;Atlas 5;NOAA (National Oceanographic and Atmospheric Administration);USA
-Göktürk 1;;Military;Earth Observation;LEO;683;683;98.1;98.42;1060;05.12.2016;7;Guiana Space Center;Vega;Turkish Ministry of National Defense;Turkey
-Göktürk 2;;Military;Earth Observation;LEO;669;690;98.16;98.35;409;18.12.2012;5;Jiuquan Satellite Launch Center;Long March 2D;Turkish Ministry of National Defense;Turkey
+GÃ¶ktÃ¼rk 1;;Military;Earth Observation;LEO;683;683;98.1;98.42;1060;05.12.2016;7;Guiana Space Center;Vega;Turkish Ministry of National Defense;Turkey
+GÃ¶ktÃ¼rk 2;;Military;Earth Observation;LEO;669;690;98.16;98.35;409;18.12.2012;5;Jiuquan Satellite Launch Center;Long March 2D;Turkish Ministry of National Defense;Turkey
 Golden Bauhinia 1-03;;Commercial;Earth Observation;LEO;479;501;97.4;94.5;10;06.12.2021;;Jiuquan Satellite Launch Center;Ceres 1;Hong Kong Aerospace Technology Group;China
 Golden Bauhinia 5;;Commercial;Earth Observation;LEO;473;503;97.4;94.5;10;06.12.2021;;Jiuquan Satellite Launch Center;Ceres 1;Hong Kong Aerospace Technology Group;China
 GomX-4A;Denmark;Military;Earth Observation;LEO;483;506;97.3;94.5;8;02.02.2018;;Jiuquan Satellite Launch Center;Long March 2D;GomSpace ApS;Denmark
@@ -1000,8 +1000,8 @@ USA 270;USA;Military;Space Observation;GEO;35749;35820;0.03;1436.02;500;19.08.20
 USA 271;USA;Military;Space Observation;GEO;35769;35899;0.01;1438.54;500;19.08.2016;;Cape Canaveral;Delta 4M+;Air Force Satellite Control Network;USA
 USA 324;;Military;Space Observation;GEO;35781;35787;0.11;1438;500;21.01.2022;;Cape Canaveral;Atlas 5;Air Force Satellite Control Network;USA
 USA 325;;Military;Space Observation;GEO;35703;35754;0.11;1438;500;21.01.2022;;Cape Canaveral;Atlas 5;Air Force Satellite Control Network;USA
-Gunsmoke-J1     ;USA;Military;Earth Observation;LEO;547;558;45;95.7;5;22.03.2021;;Rocket Lab Launch Complex 1;Electron;U.S. Army’s Space and Missile Defense Command;USA
-Gunsmoke-J2;USA;Military;Earth Observation;LEO;487;503;51.6;95.7;5;20.02.2021;;Wallops Island Flight Facility;Cygnus;U.S. Army’s Space and Missile Defense Command;USA
+Gunsmoke-J1     ;USA;Military;Earth Observation;LEO;547;558;45;95.7;5;22.03.2021;;Rocket Lab Launch Complex 1;Electron;U.S. Armyâ€™s Space and Missile Defense Command;USA
+Gunsmoke-J2;USA;Military;Earth Observation;LEO;487;503;51.6;95.7;5;20.02.2021;;Wallops Island Flight Facility;Cygnus;U.S. Armyâ€™s Space and Missile Defense Command;USA
 Gunsmoke-J4;USA;Military;Earth Observation;LEO;494;521;69.6;96;4;30.06.2021;;Virgin Orbit;LauncherOne;Department of Defense/Army Space and Missile Defense Command;USA
 Hainan-1-01;;Government;Earth Observation;LEO;527;551;97.5;96;55;27.02.2022;;Wenchang Space Center;Long March 8;Sanya Institute of Remote Sensing;China
 Hainan-1-02;;Government;Earth Observation;LEO;527;550;97.5;96;65;27.02.2022;;Wenchang Space Center;Long March 8;Sanya Institute of Remote Sensing;China
@@ -1034,8 +1034,8 @@ HEAD-2E;;Commercial;Earth Observation;LEO;503;522;97.3;94.6;45;14.10.2021;;Taiyu
 HEAD-2F;;Commercial;Earth Observation;LEO;502;522;97.3;94.6;45;14.10.2021;;Taiyuan Launch Center;Long March 2D;HEAD Aerospace;China
 HEAD-4;China;Commercial;Earth Observation;LEO;487;502;97.3;94.5;45;31.05.2020;;Jiuquan Satellite Launch Center;Long March 2D;HEAD Aerospace;China
 HEAD-5;China;Commercial;Earth Observation;LEO;485;502;97.3;94.5;45;17.06.2020;;Jiuquan Satellite Launch Center;Long March 2D;HEAD Aerospace;China
-Helios 2A;;Military;Earth Observation;LEO;681;683;98.1;98;4200;18.12.2004;5;Guiana Space Center;Ariane 5G;Centre National d'Etudes Spatiales (CNES)/Délégation Générale de l'Armement (DGA);Multinational
-Helios 2B;France;Military;Earth Observation;LEO;679;682;98.1;98.37;4200;18.12.2009;5;Guiana Space Center;Ariane 5;Centre National d'Etudes Spatiales (CNES)/Délégation Générale de l'Armement (DGA);Multinational
+Helios 2A;;Military;Earth Observation;LEO;681;683;98.1;98;4200;18.12.2004;5;Guiana Space Center;Ariane 5G;Centre National d'Etudes Spatiales (CNES)/DÃ©lÃ©gation GÃ©nÃ©rale de l'Armement (DGA);Multinational
+Helios 2B;France;Military;Earth Observation;LEO;679;682;98.1;98.37;4200;18.12.2009;5;Guiana Space Center;Ariane 5;Centre National d'Etudes Spatiales (CNES)/DÃ©lÃ©gation GÃ©nÃ©rale de l'Armement (DGA);Multinational
 HellasSat-2;Greece;Commercial;Communications;GEO;35769;35803;0.01;1436.08;3300;12.05.2003;15;Cape Canaveral;Atlas 5;Hellas-Sat Consortium Ltd.;Greece
 HellasSat-3;;Commercial;Communications;GEO;35685;35788;0;1436.1;5780;28.06.2017;15;Guiana Space Center;Ariane 5;Hellas-Sat Consortium Ltd./INMARSAT;Multinational
 Hellas-Sat 4;;Commercial/Government;Communications;GEO;35785;35785;0.01;1436.1;6495;05.02.2019;15;Guiana Space Center;Ariane 5;Hellas-Sat Consortium Ltd.;Greece
@@ -1132,7 +1132,7 @@ INS-1C;;Government;Technology Development;LEO;495;508;97.5;94.6;5;11.01.2018;0.5
 INS-2TD;;Government;Earth Observation;LEO;520;533;97.5;94.6;18;14.02.2022;;Satish Dhawan Space Centre;PSLV-XL;Indian Space Research Organization (ISRO);India
 INSAT 3D;India;Government;Earth Observation;GEO;35782;35791;0.24;1436.09;2090;25.07.2013;;Guiana Space Center;Ariane 5 ECA;Indian Space Research Organization (ISRO);India
 INSAT 3DR;;Government;Earth Observation;GEO;35722;35851;0.03;1436.1;2200;08.09.2016;10;Satish Dhawan Space Centre;GSLV Mk.2;Indian Space Research Organization (ISRO);India
-Inspire-Sat-1;;Civil/Government;Earth Science;LEO;520;533;97.6;95.4;8;14.02.2022;;Satish Dhawan Space Centre;PSLV XL;University of Colorado’s Laboratory for Atmospheric and Space Physics/Indian Institute of Space Science and Technology;Multinational
+Inspire-Sat-1;;Civil/Government;Earth Science;LEO;520;533;97.6;95.4;8;14.02.2022;;Satish Dhawan Space Centre;PSLV XL;University of Coloradoâ€™s Laboratory for Atmospheric and Space Physics/Indian Institute of Space Science and Technology;Multinational
 INTEGRAL;;Government;Space Science;ELL;6292;156833;53.95;4032.86;4000;17.10.2002;2;Baikonur Cosmodrome;Proton;European Space Operations Centre (ESOC)/NASA/Russia;Multinational
 Intelsat 10;USA;Commercial;Communications;GEO;35776;35796;0.04;1436.08;3739;14.05.2001;15;Baikonur Cosmodrome;Proton;PanAmSat (Intelsat S.A.);USA
 Intelsat 10-02;USA;Commercial;Communications;GEO;35783;35789;0.02;1436.08;5576;16.06.2004;13;Baikonur Cosmodrome;Proton;Intelsat S.A.;USA
@@ -1582,7 +1582,7 @@ Luch/Olympus;Russia;Military;Communications;GEO;35781;35793;0.05;1436.12;;27.09.
 Lucky-7;Czech Republic;Commercial;Technology Development;LEO;515;545;97.5;95.2;1;05.07.2019;;Vostochny Cosmodrome;Soyuz-2.1b;SkyFox Labs;Czech Republic
 Ludi Tance 1-01A;;Government;Earth Observation;LEO;591;601;97.8;95.4;3200;25.01.2022;;Jiuquan Satellite Launch Center;Long March 4C;Shanghai Academy of Space Technology;China
 Ludi Tance 1-01B;;Government;Earth Observation;LEO;596;600;97.8;95.4;3200;26.02.2022;;Jiuquan Satellite Launch Center;Long March 4C;Shanghai Academy of Space Technology;China
-Lume-1;Spain;Commercial/Civil;Communications;LEO;480;513;97.3;94.5;2;27.12.2018;;Vostochny Cosmodrome;Soyuz-2.1a;University of Vigo/Alén Space;Spain
+Lume-1;Spain;Commercial/Civil;Communications;LEO;480;513;97.3;94.5;2;27.12.2018;;Vostochny Cosmodrome;Soyuz-2.1a;University of Vigo/AlÃ©n Space;Spain
 Luojia 1;China;Civil;Earth Observation;LEO;634;647;98;97.5;5;03.06.2018;;Jiuquan Satellite Launch Center;Long March 2D;Wuhan University;China
 Lynk-4;;Commercial;Communications;LEO;476;486;51.7;715;8;13.05.2020;;Cygnus;Slingshot Deployer;Lynk Global Inc.;USA
 Lynk-5;;Commercial;Communications;LEO;497;509;97.4;95.1;80;01.04.2022;;Cape Canaveral;Falcon 9;Lynk Global Inc.;USA
@@ -1591,7 +1591,7 @@ M3MSat;Canada;Government;Earth Observation;LEO;501;515;97.5;94.7;85;22.06.2016;;
 MakerSat-1;;Commercial/Civil;Technology Development;LEO;459;473;51.6;93.9;2;31.01.2020;;Cygnus;SEOPS Slingshot Deployer;Northwest Nazarene University;USA
 Mandrake 2A;;Military;Technology Development;LEO;522;536;97.5;94.5;23;30.06.2021;;Cape Canaveral;Falcon 9;Defense Advanced Research Projects Agency (DARPA);USA
 Mandrake 2B;;Military;Technology Development;LEO;522;536;97.5;94.5;23;30.06.2021;;Cape Canaveral;Falcon 9;Defense Advanced Research Projects Agency (DARPA);USA
-Maroc Tubsat;;Government;Technology Development;LEO;984;1014;99.2;105.1;47;10.12.2001;3;Baikonur Cosmodrome;Zenit;CTRS Morocco/Institut für Luft-und Raumfahrttechnik (Berlin);Multinational
+Maroc Tubsat;;Government;Technology Development;LEO;984;1014;99.2;105.1;47;10.12.2001;3;Baikonur Cosmodrome;Zenit;CTRS Morocco/Institut fÃ¼r Luft-und Raumfahrttechnik (Berlin);Multinational
 Max Valier;;Civil;Space Science/Technology Development;LEO;496;516;97.45;94.7;16;23.06.2017;;Satish Dhawan Space Centre;PSLV;Max Valier school Bolzano, Italy, Oskar von Miller school, Merano, Italy;Italy
 M-Cubed/E1P-U2;USA;Civil;Technology Development;LEO;442;724;101.7;97.45;2;28.10.2011;;Vandenberg AFB;Delta 7920;University of Michigan/Montana University;USA
 MDASat-1A;;Government;Earth Observation;LEO;522;535;97.5;94.7;1;13.01.2022;;Cape Canaveral;Falcon 9;Cape Peninsula University of Technology (CPUT);South Africa
@@ -1655,8 +1655,8 @@ MUOS-4;USA;Military;Communications;GEO;35576;35997;4.8;1436.1;6804;02.09.2015;;C
 MUOS-5;USA;Military;Communications;GEO;35576;35998;4.5;1436.1;6804;24.06.2016;;Cape Canaveral;Atlas 5;DoD/US Navy;USA
 MyRadar-1;;Commercial;Technology Development;LEO;524;535;97.5;94.3;1;02.05.2022;1;Rocket Lab Launch Complex 1;Electron;ACMEO;USA
 NanoACE;USA;Commercial;Technology Development;LEO;486;602;97.6;96.6;6;14.07.2017;;Baikonur Cosmodrome;Soyuz-2.1a;Tyvak Nanosatellite Systems, Inc.;USA
-Nanosat-1;Spain;Government;Communications;LEO;654;659;98.4;97.9;20;18.12.2004;;Guiana Space Center;Ariane 5G;Instituto Nacional de Técnia Aeroespacial (INTA);Spain
-Nanosat-1B;;Government;Communications/Technology Development;LEO;583;672;98.1;97.3;20;29.07.2009;;Baikonur Cosmodrome;Dnepr;Instituto Nacional de Técnia Aeroespacial (INTA);Spain
+Nanosat-1;Spain;Government;Communications;LEO;654;659;98.4;97.9;20;18.12.2004;;Guiana Space Center;Ariane 5G;Instituto Nacional de TÃ©cnia Aeroespacial (INTA);Spain
+Nanosat-1B;;Government;Communications/Technology Development;LEO;583;672;98.1;97.3;20;29.07.2009;;Baikonur Cosmodrome;Dnepr;Instituto Nacional de TÃ©cnia Aeroespacial (INTA);Spain
 NANOSATC-BR2;;Government/Civil;Earth Observation;LEO;534;557;97.6;94.5;3;22.03.2021;;Baikonur Cosmodrome;Soyuz-2.1a;Brazilian National Institute of Space Research (INPE/MCTI), Federal University of Santa Maria (UFSM);Brazil
 NAPA-1;;Military;Earth Observation;LEO;531;535;97.5;94.5;10;02.09.2020;;Guiana Space Center;Vega;Thai Air Force;Thailand
 NAPA-2;;Military;Earth Observation;LEO;519;540;97.5;94.5;10;30.06.2021;;Cape Canaveral;Falcon 9;Thai Air Force;Thailand
@@ -1703,10 +1703,10 @@ NEO-1;;Commercial;Technology Development;LEO;494;509;97.4;95.2;40;27.04.2021;;Ta
 NEOSSat;;Government;Space Observation;LEO;772;786;98.6;100.4;74;25.02.2013;;Satish Dhawan Space Centre;PSLV;Canadian Space Agency;Canada
 Neptuno;;Government;Earth Observation;LEO;519;533;97.5;95.1;4;30.06.2021;;Cape Canaveral;Falcon 9;Deimos;Spain
 NeR;;Commercial;Earth Observation;LEO;561;592;10;;155;30.06.2022;;Satish Dhawan Space Centre;PSLV;Unknown;Sinapore
-Netsat-1;;Commercial;Technology Demonstration;LEO;544;567;97.8;95.6;4;28.09.2020;;Plesetsk Cosmodrome;Soyuz-2.1b;Würzburg Center for Telematics;Germany
-Netsat-2;;Commercial;Technology Demonstration;LEO;544;567;97.8;95.6;4;28.09.2020;;Plesetsk Cosmodrome;Soyuz-2.1b;Würzburg Center for Telematics;Germany
-Netsat-3;;Commercial;Technology Demonstration;LEO;544;568;97.8;95.6;4;28.09.2020;;Plesetsk Cosmodrome;Soyuz-2.1b;Würzburg Center for Telematics;Germany
-Netsat-4;;Commercial;Technology Demonstration;LEO;544;568;97.8;95.6;4;28.09.2020;;Plesetsk Cosmodrome;Soyuz-2.1b;Würzburg Center for Telematics;Germany
+Netsat-1;;Commercial;Technology Demonstration;LEO;544;567;97.8;95.6;4;28.09.2020;;Plesetsk Cosmodrome;Soyuz-2.1b;WÃ¼rzburg Center for Telematics;Germany
+Netsat-2;;Commercial;Technology Demonstration;LEO;544;567;97.8;95.6;4;28.09.2020;;Plesetsk Cosmodrome;Soyuz-2.1b;WÃ¼rzburg Center for Telematics;Germany
+Netsat-3;;Commercial;Technology Demonstration;LEO;544;568;97.8;95.6;4;28.09.2020;;Plesetsk Cosmodrome;Soyuz-2.1b;WÃ¼rzburg Center for Telematics;Germany
+Netsat-4;;Commercial;Technology Demonstration;LEO;544;568;97.8;95.6;4;28.09.2020;;Plesetsk Cosmodrome;Soyuz-2.1b;WÃ¼rzburg Center for Telematics;Germany
 NextSat-1;;Government;Space Science;LEO;572;588;97.7;96.3;100;03.12.2018;;Vandenberg AFB;Falcon 9;Korea Advanced Institute of Science and Technology (KAIST);South Korea
 Nexus;;Civil;Communications;LEO;480;512;97.3;94.5;4;18.01.2019;;Uchinoura Space Center;Epsilon;Nihon University;Japan
 NigComSat-1R;China;Commercial;Communications;GEO;35793;35795;0.2;1436.1;5150;17.12.2011;15;Xichang Satellite Launch Center;Long March 3B;NigComSat;Nigeria
@@ -1761,35 +1761,35 @@ NSS-12;United Kingdom;Commercial;Communications;GEO;35779;35793;0.06;1436.08;;29
 NSS-6;;Commercial;Communications;GEO;35776;35797;0.02;1436.12;4575;17.12.2002;;Guiana Space Center;Ariane 4;SES S.A.;Netherlands
 NSS-7;;Commercial;Communications;GEO;35775;35798;0.08;1436.12;4500;16.04.2002;14;Guiana Space Center;Ariane 42L;SES S.A.;Netherlands
 NSS-9;United Kingdom;Commercial;Communications;GEO;35784;35792;0.02;1436.17;2238;11.02.2009;15;Guiana Space Center;Ariane 5 ECA;SES S.A.;Netherlands
-Ñt-10;Uruguay;Commercial;Earth Observation;LEO;467;477;97.3;94;45;06.11.2020;;Taiyuan Launch Center;Long March 6;Satellogic S.A.;Argentina
-Ñt-11;Uruguay;Commercial;Earth Observation;LEO;467;478;97.3;94;45;06.11.2020;;Taiyuan Launch Center;Long March 6;Satellogic S.A.;Argentina
-Ñt-12;Uruguay;Commercial;Earth Observation;LEO;467;477;97.3;94;45;06.11.2020;;Taiyuan Launch Center;Long March 6;Satellogic S.A.;Argentina
-Ñt-13;Uruguay;Commercial;Earth Observation;LEO;465;475;97.3;94;45;06.11.2020;;Taiyuan Launch Center;Long March 6;Satellogic S.A.;Argentina
-Ñt-14;Uruguay;Commercial;Earth Observation;LEO;468;478;97.3;94;45;06.11.2020;;Taiyuan Launch Center;Long March 6;Satellogic S.A.;Argentina
-Ñt-15;Uruguay;Commercial;Earth Observation;LEO;467;476;97.3;94;45;06.11.2020;;Taiyuan Launch Center;Long March 6;Satellogic S.A.;Argentina
-Ñt-16;Uruguay;Commercial;Earth Observation;LEO;465;473;97.3;94;45;06.11.2020;;Taiyuan Launch Center;Long March 6;Satellogic S.A.;Argentina
-Ñt-17;Uruguay;Commercial;Earth Observation;LEO;465;474;97.3;94;45;06.11.2020;;Taiyuan Launch Center;Long March 6;Satellogic S.A.;Argentina
-Ñt-18;Uruguay;Commercial;Earth Observation;LEO;465;473;97.3;94;45;06.11.2020;;Taiyuan Launch Center;Long March 6;Satellogic S.A.;Argentina
-Ñt-19;Uruguay;Commercial;Earth Observation;LEO;524;536;97.4;95.1;37;30.06.2021;;Cape Canaveral;Falcon 9;Satellogic S.A.;Argentina
-Ñt-20;Uruguay;Commercial;Earth Observation;LEO;523;536;97.5;95.1;37;30.06.2021;;Cape Canaveral;Falcon 9;Satellogic S.A.;Argentina
-Ñt-21;Uruguay;Commercial;Earth Observation;LEO;523;536;97.5;95.1;37;30.06.2021;;Cape Canaveral;Falcon 9;Satellogic S.A.;Argentina
-Ñt-22;Uruguay;Commercial;Earth Observation;LEO;523;536;97.5;95.1;37;30.06.2021;;Cape Canaveral;Falcon 9;Satellogic S.A.;Argentina
-Ñt-23;Uruguay;Commercial;Earth Observation;LEO;498;509;97.4;95.1;42;04.04.2022;;Cape Canaveral;Falcon 9;Satellogic S.A.;Argentina
-Ñt-24;Uruguay;Commercial;Earth Observation;LEO;497;510;97.4;95.1;42;04.04.2022;;Cape Canaveral;Falcon 9;Satellogic S.A.;Argentina
-Ñt-25;Uruguay;Commercial;Earth Observation;LEO;494;509;97.4;95.1;42;04.04.2022;;Cape Canaveral;Falcon 9;Satellogic S.A.;Argentina
-Ñt-26;Uruguay;Commercial;Earth Observation;LEO;494;509;97.4;95.1;42;04.04.2022;;Cape Canaveral;Falcon 9;Satellogic S.A.;Argentina
-Ñt-27;Uruguay;Commercial;Earth Observation;LEO;493;509;97.4;95.1;42;04.04.2022;;Cape Canaveral;Falcon 9;Satellogic S.A.;Argentina
-Ñt-28;;Commercial;Earth Observation;LEO;525;536;97.5;94.1;42;25.05.2022;;Cape Canaveral;Falcon 9;Satellogic S.A.;Argentina
-Ñt-29;;Commercial;Earth Observation;LEO;519;535;97.5;94.1;42;25.05.2022;;Cape Canaveral;Falcon 9;Satellogic S.A.;Argentina
-Ñt-3 ;Uruguay;Commercial;Earth Observation;LEO;535;545;43.02;95.44;35;15.06.2017;;Jiuquan Satellite Launch Center;Long March 4B;Satellogic S.A.;Argentina
-Ñt-30;;Commercial;Earth Observation;LEO;523;535;97.5;94.1;42;25.05.2022;;Cape Canaveral;Falcon 9;Satellogic S.A.;Argentina
-Ñt-31;;Commercial;Earth Observation;LEo;523;535;97.5;94.1;42;25.05.2022;;Cape Canaveral;Falcon 9;Satellogic S.A.;Argentina
-Ñt-4;Uruguay;Commercial;Earth Observation;LEO;493;503;97.2;94.5;35;02.02.2018;;Jiuquan Satellite Launch Center;Long March 2D;Satellogic S.A.;Argentina
-Ñt-5;Uruguay;Commercial;Earth Observation;LEO;487;507;97.2;94.5;35;02.02.2018;;Jiuquan Satellite Launch Center;Long March 2D;Satellogic S.A.;Argentina
-Ñt-6 ;Uruguay;Commercial;Earth Observation;LEO;516;524;97.5;94.5;35;02.09.2020;;Guiana Space Center;Vega;Satellogic S.A.;Argentina
-Ñt 7;Uruguay;Commercial;Earth Observation;LEO;476;490;97.3;94.2;45;15.01.2020;;Taiyuan Launch Center;Long March 2D;Satellogic S.A.;Argentina
-Ñt 8;Uruguay;Commercial;Earth Observation;LEO;475;492;97.3;94.2;45;15.01.2020;;Taiyuan Launch Center;Long March 2D;Satellogic S.A.;Argentina
-Ñt-9;Uruguay;Commercial;Earth Observation;LEO;467;479;97.3;94;45;06.11.2020;;Taiyuan Launch Center;Long March 6;Satellogic S.A.;Argentina
+Ã‘t-10;Uruguay;Commercial;Earth Observation;LEO;467;477;97.3;94;45;06.11.2020;;Taiyuan Launch Center;Long March 6;Satellogic S.A.;Argentina
+Ã‘t-11;Uruguay;Commercial;Earth Observation;LEO;467;478;97.3;94;45;06.11.2020;;Taiyuan Launch Center;Long March 6;Satellogic S.A.;Argentina
+Ã‘t-12;Uruguay;Commercial;Earth Observation;LEO;467;477;97.3;94;45;06.11.2020;;Taiyuan Launch Center;Long March 6;Satellogic S.A.;Argentina
+Ã‘t-13;Uruguay;Commercial;Earth Observation;LEO;465;475;97.3;94;45;06.11.2020;;Taiyuan Launch Center;Long March 6;Satellogic S.A.;Argentina
+Ã‘t-14;Uruguay;Commercial;Earth Observation;LEO;468;478;97.3;94;45;06.11.2020;;Taiyuan Launch Center;Long March 6;Satellogic S.A.;Argentina
+Ã‘t-15;Uruguay;Commercial;Earth Observation;LEO;467;476;97.3;94;45;06.11.2020;;Taiyuan Launch Center;Long March 6;Satellogic S.A.;Argentina
+Ã‘t-16;Uruguay;Commercial;Earth Observation;LEO;465;473;97.3;94;45;06.11.2020;;Taiyuan Launch Center;Long March 6;Satellogic S.A.;Argentina
+Ã‘t-17;Uruguay;Commercial;Earth Observation;LEO;465;474;97.3;94;45;06.11.2020;;Taiyuan Launch Center;Long March 6;Satellogic S.A.;Argentina
+Ã‘t-18;Uruguay;Commercial;Earth Observation;LEO;465;473;97.3;94;45;06.11.2020;;Taiyuan Launch Center;Long March 6;Satellogic S.A.;Argentina
+Ã‘t-19;Uruguay;Commercial;Earth Observation;LEO;524;536;97.4;95.1;37;30.06.2021;;Cape Canaveral;Falcon 9;Satellogic S.A.;Argentina
+Ã‘t-20;Uruguay;Commercial;Earth Observation;LEO;523;536;97.5;95.1;37;30.06.2021;;Cape Canaveral;Falcon 9;Satellogic S.A.;Argentina
+Ã‘t-21;Uruguay;Commercial;Earth Observation;LEO;523;536;97.5;95.1;37;30.06.2021;;Cape Canaveral;Falcon 9;Satellogic S.A.;Argentina
+Ã‘t-22;Uruguay;Commercial;Earth Observation;LEO;523;536;97.5;95.1;37;30.06.2021;;Cape Canaveral;Falcon 9;Satellogic S.A.;Argentina
+Ã‘t-23;Uruguay;Commercial;Earth Observation;LEO;498;509;97.4;95.1;42;04.04.2022;;Cape Canaveral;Falcon 9;Satellogic S.A.;Argentina
+Ã‘t-24;Uruguay;Commercial;Earth Observation;LEO;497;510;97.4;95.1;42;04.04.2022;;Cape Canaveral;Falcon 9;Satellogic S.A.;Argentina
+Ã‘t-25;Uruguay;Commercial;Earth Observation;LEO;494;509;97.4;95.1;42;04.04.2022;;Cape Canaveral;Falcon 9;Satellogic S.A.;Argentina
+Ã‘t-26;Uruguay;Commercial;Earth Observation;LEO;494;509;97.4;95.1;42;04.04.2022;;Cape Canaveral;Falcon 9;Satellogic S.A.;Argentina
+Ã‘t-27;Uruguay;Commercial;Earth Observation;LEO;493;509;97.4;95.1;42;04.04.2022;;Cape Canaveral;Falcon 9;Satellogic S.A.;Argentina
+Ã‘t-28;;Commercial;Earth Observation;LEO;525;536;97.5;94.1;42;25.05.2022;;Cape Canaveral;Falcon 9;Satellogic S.A.;Argentina
+Ã‘t-29;;Commercial;Earth Observation;LEO;519;535;97.5;94.1;42;25.05.2022;;Cape Canaveral;Falcon 9;Satellogic S.A.;Argentina
+Ã‘t-3 ;Uruguay;Commercial;Earth Observation;LEO;535;545;43.02;95.44;35;15.06.2017;;Jiuquan Satellite Launch Center;Long March 4B;Satellogic S.A.;Argentina
+Ã‘t-30;;Commercial;Earth Observation;LEO;523;535;97.5;94.1;42;25.05.2022;;Cape Canaveral;Falcon 9;Satellogic S.A.;Argentina
+Ã‘t-31;;Commercial;Earth Observation;LEo;523;535;97.5;94.1;42;25.05.2022;;Cape Canaveral;Falcon 9;Satellogic S.A.;Argentina
+Ã‘t-4;Uruguay;Commercial;Earth Observation;LEO;493;503;97.2;94.5;35;02.02.2018;;Jiuquan Satellite Launch Center;Long March 2D;Satellogic S.A.;Argentina
+Ã‘t-5;Uruguay;Commercial;Earth Observation;LEO;487;507;97.2;94.5;35;02.02.2018;;Jiuquan Satellite Launch Center;Long March 2D;Satellogic S.A.;Argentina
+Ã‘t-6 ;Uruguay;Commercial;Earth Observation;LEO;516;524;97.5;94.5;35;02.09.2020;;Guiana Space Center;Vega;Satellogic S.A.;Argentina
+Ã‘t 7;Uruguay;Commercial;Earth Observation;LEO;476;490;97.3;94.2;45;15.01.2020;;Taiyuan Launch Center;Long March 2D;Satellogic S.A.;Argentina
+Ã‘t 8;Uruguay;Commercial;Earth Observation;LEO;475;492;97.3;94.2;45;15.01.2020;;Taiyuan Launch Center;Long March 2D;Satellogic S.A.;Argentina
+Ã‘t-9;Uruguay;Commercial;Earth Observation;LEO;467;479;97.3;94;45;06.11.2020;;Taiyuan Launch Center;Long March 6;Satellogic S.A.;Argentina
 NuSTAR;USA;Government;Space Science;LEO;613;632;6;97.2;360;13.06.2012;2;Kwajalein Island;Pegasus XL;National Aeronautics and Space Administration (NASA);USA
 219;USA;Government/Civil;Space Science;LEO;624;654;71.97;97.48;6;20.11.2010;0.5;Kodiak Launch Complex;Minotaur 4;National Aeronautics and Space Administration (NASA)-Ames Research Center/Stanford University;USA
 O3b FM02;United Kingdom;Commercial;Communications;MEO;8063;8069;0.03;287.93;700;25.06.2013;;Guiana Space Center;Soyuz-ST;O3b Networks Ltd.;United Kingdom
@@ -2403,10 +2403,10 @@ Cosmos 2550;;Military;Earth Observation;LEO;587;599;35;96;6500;25.06.2021;5;USA;
 PISAT;India;Government;Technology Development;LEO;661;704;98.2;94.8;6;26.09.2016;;Satish Dhawan Space Centre;PSLV;Indian Space Research Organization (ISRO);India
 PIXL-1;Germany;Government;Technology Development;LEO;522;535;97.5;95.2;5;24.01.2021;;Cape Canaveral;Falcon 9;German Aerospace Center (DLR-IKN)/TESAT Spacecom;Germany
 PlantSat;;Civil/Government;Technology Development;LEO;496;502;97.4;95.2;4;01.04.2022;;Cape Canaveral;Falcon 9;University of Chile for Aerospace Investigation);Chile
-Pléiades HR1A ;France;Government;Earth Observation;LEO;697;699;98.2;98.7;1000;17.12.2011;5;Guiana Space Center;Soyuz-2/Fregat;Ministry of Defense/Centre National d'Etudes Spatiales (CNES) - cooperation with Austria, Belgium, Spain, Sweden;Multinational
-Pléiades HR1B ;France;Commercial;Earth Observation;LEO;678;691;98.5;98.45;970;02.12.2012;5;Guiana Space Center;Soyuz STA/Fregat;Ministry of Defense//Centre National d/Etudes Spatiales (CNES) - cooperation with Austria, Belgium, Spain, Sweden;France
+PlÃ©iades HR1A ;France;Government;Earth Observation;LEO;697;699;98.2;98.7;1000;17.12.2011;5;Guiana Space Center;Soyuz-2/Fregat;Ministry of Defense/Centre National d'Etudes Spatiales (CNES) - cooperation with Austria, Belgium, Spain, Sweden;Multinational
+PlÃ©iades HR1B ;France;Commercial;Earth Observation;LEO;678;691;98.5;98.45;970;02.12.2012;5;Guiana Space Center;Soyuz STA/Fregat;Ministry of Defense//Centre National d/Etudes Spatiales (CNES) - cooperation with Austria, Belgium, Spain, Sweden;France
 Pleiades Neo 3 ;;Commercial;Earth Observation;LEO;623;626;97.9;97.2;920;29.04.2021;10;Guiana Space Center;Vega;Airbus Defense and Space;France
-Pléiades Neo 4;;Commercial;Earth Observation;LEO;615;617;97.9;97.2;920;17.08.2021;10;Guiana Space Center;Vega;Airbus Defense and Space;France
+PlÃ©iades Neo 4;;Commercial;Earth Observation;LEO;615;617;97.9;97.2;920;17.08.2021;10;Guiana Space Center;Vega;Airbus Defense and Space;France
 Polar Scout A;USA;Military;Communications;LEO;573;591;97.7;96.3;6;03.12.2018;;Vandenberg AFB;Falcon 9;US Coast Guard;USA
 Polar Scout B;USA;Military;Communications;LEO;575;591;97.7;96.3;6;03.12.2018;;Vandenberg AFB;Falcon 9;US Coast Guard;USA
 PolarCube;;Government/Civil;Earth Observation;LEO;490;511;60.7;94.62;4;17.01.2021;;FANTM-RAiL (Xtenti);LauncherOne;University of Colorado, Boulder;USA
@@ -2730,7 +2730,7 @@ SOCRATES;Japan;Commercial;Technology Development;LEO;618;629;97.87;97.17;48;24.0
 SOHLA 1;Japan;Civil;Technology Development;LEO;657;665;98.1;98;50;23.01.2009;;Tanegashima Space Center;H2A;Astrotech SOHLA;Japan
 SOKRAT;;Civil;Space Science;LEO;515;546;97.5;95.2;4;05.07.2019;;Vostochny Cosmodrome;Soyuz-2.1b;Moscow State University;Russia
 SOMP-2b;Germany;Civil;Space Science;LEO;522;535;97.5;95.2;3;24.01.2021;;Cape Canaveral;Falcon 9;Technical  University Dresden;Germany
-SONATE;;Civil;Technology Development;LEO;514;546;97.5;95.2;1;05.07.2019;;Vostochny Cosmodrome;Soyuz-2.1b;University of Würzburg;Germany
+SONATE;;Civil;Technology Development;LEO;514;546;97.5;95.2;1;05.07.2019;;Vostochny Cosmodrome;Soyuz-2.1b;University of WÃ¼rzburg;Germany
 SOlar Radiation and Climate Experiment (SORCE);USA;Government/Civil;Space Science;LEO;600;633;40;97;315;25.01.2003;6;Cape Canaveral;Pegasus XL;National Aeronautics and Space Administration (NASA) Earth Science Office/Laboratory for Atmospheric and Space Physics, Univ. of Colorado;USA
 SORTIE;USA;Government;Space Science;LEO;409;419;51.6;92.8;9;19.02.2020;;International Space Station;Nanorack Deployer;COSMIAC (Configurable Space Microsystems Innovations & Applications Center) ;USA
 South Asia Satellite;India;Government;Communications;GEO;35775;35798;0;1436.11;2230;06.05.2017;12;Satish Dhawan Space Centre;GSLV;South Asian Association for Regional Cooperation;India
@@ -6277,7 +6277,7 @@ SWARM-B;;Government;Earth Observation;LEO;473;476;87.3;93.9;468;22.11.2013;4;Ple
 SWARM-C;;Government;Earth Observation;LEO;486;496;87.5;94;468;22.11.2013;4;Plesetsk Cosmodrome;Rokot;European Space Agency (ESA);Multinational
 Swayam;;Civil;Technology Development;LEO;500;518;97.5;94.7;1;22.06.2016;;Satish Dhawan Space Centre;PSLV XL;College of Engineering, Pune;India
 Swift;USA;Government/Civil;Space Science;LEO;551;576;20.6;96.3;1463;20.11.2004;7;Cape Canaveral;Delta 7320;Goddard Space Flight Center/Penn State University;Multinational
-SwissCube;;Civil;Technology Development;LEO;710;720;98.3;99.1;1;23.09.2009;1;Satish Dhawan Space Centre;PSLV;Ecole Polytechnique Fédérale de Lanne (EPFL);Switzerland
+SwissCube;;Civil;Technology Development;LEO;710;720;98.3;99.1;1;23.09.2009;1;Satish Dhawan Space Centre;PSLV;Ecole Polytechnique FÃ©dÃ©rale de Lanne (EPFL);Switzerland
 Syracuse 3A;France;Military;Communications;GEO;35778;35792;0;1436.06;3725;13.10.2005;12;Guiana Space Center;Ariane 5;Defense Ministry;France
 Syracuse 3B;France;Military;Communications;GEO;35772;35801;0.03;1436.09;3750;11.08.2006;12;Guiana Space Center;Ariane 5;Defense Ministry;France
 Syracuse 4A;;Military;Communications;GEO;35770;35800;0.03;1436;3852;24.10.2021;15;Guiana Space Center;Ariane 5;Defense Ministry;France
@@ -6299,7 +6299,7 @@ TDRS-12;USA;Government;Communications;GEO;35780;35785;6.99;1435.88;3454;23.01.20
 TDRS-13;USA;Government;Communications;GEO;35755;35813;0;1436;3452;18.08.2017;15;Cape Canaveral;Atlas 5;National Aeronautics and Space Administration (NASA);USA
 TDRS-3;USA;Government;Communications;GEO;35693;35878;11.53;1436.06;3180;29.09.1988;10;Cape Canaveral;Space Shuttle (STS 26);National Aeronautics and Space Administration (NASA);USA
 TDRS-5;USA;Government/Commercial;Communications;GEO;35773;35796;9.4;1436.99;3180;02.08.1991;10;Cape Canaveral;Space Shuttle (STS 43);SES S.A.;USA
-TDRS-6;USA;Government/Commercial;Communications;GEO;35773;35787;8.74;1435.7;3180;13.01.1993;10;Cape Canaveral;Space Shuttle (STS 54);National Aeronautics and Space Administration (NASA)/SES Americom (SES [Société Européenne des Satellites (SES)]);USA
+TDRS-6;USA;Government/Commercial;Communications;GEO;35773;35787;8.74;1435.7;3180;13.01.1993;10;Cape Canaveral;Space Shuttle (STS 54);National Aeronautics and Space Administration (NASA)/SES Americom (SES [SociÃ©tÃ© EuropÃ©enne des Satellites (SES)]);USA
 TDRS-7;USA;Government;Communications;GEO;35767;35803;10.6;1436.04;3180;13.07.1995;10;Cape Canaveral;Space Shuttle (STS 70);National Aeronautics and Space Administration (NASA);USA
 TDRS-8;USA;Government;Communications;GEO;35768;35808;0.9;1436.2;3180;30.06.2000;11;Cape Canaveral;Atlas 2A;National Aeronautics and Space Administration (NASA);USA
 TDRS-9;USA;Government;Communications;GEO;35768;35809;0.02;1436.11;3180;08.03.2002;11;Cape Canaveral;Atlas 2A;National Aeronautics and Space Administration (NASA);USA
@@ -6466,14 +6466,14 @@ USA 330;;Military;Unknown;LEO;520;531;53;;;19.06.2022;;Cape Canaveral;Falcon 9;N
 USA 331;;Military;Unknown;LEO;520;531;53;;;19.06.2022;;Cape Canaveral;Falcon 9;National Reconnaissance Office (NRO);USA
 USSF 12 Ring;;Military;Technology Development;GEO;36167;36323;0;;500;01.07.2022;;Cape Canaveral;Atlas 5;US Space Force;USA
 UVSQ-Sat;;Civil;Technology Demonstration;LEO;523;535;97.5;95.2;1;24.01.2021;;Cape Canaveral;Falcon 9;University of Versailles Saint-Quentin-en-Yvelines (UVSQ)/National Centre for Scientific Research (CNRS);France
-UWE-4;Germany;Civil;Technology Development/Educational;LEO;572;585;97.7;96.2;2;27.12.2018;;Vostochny Cosmodrome;Soyuz-2.1a;University of Würzburg;Germany
+UWE-4;Germany;Civil;Technology Development/Educational;LEO;572;585;97.7;96.2;2;27.12.2018;;Vostochny Cosmodrome;Soyuz-2.1a;University of WÃ¼rzburg;Germany
 RBSP-A;USA;Government;Earth Observation;ELL;591;30534;10.03;539.06;648;30.08.2012;;Cape Canaveral;Atlas 5;National Aeronautics and Space Administration (NASA)/Johns Hopkins University Applied Physics Laboratory;USA
 RBSP-B;USA;Government;Earth Observation;ELL;595;30657;10.04;541.4;666;30.08.2012;;Cape Canaveral;Atlas 5;National Aeronautics and Space Administration (NASA)/Johns Hopkins University Applied Physics Laboratory;USA
 VDNH-80;Russia;Civil;Space Science;LEO;514;545;97.5;95.2;4;05.07.2019;;Vostochny Cosmodrome;Soyuz-2.1b;Moscow State University;Russia
 Veery Hatchling v.2;USA;Civil;Earth Observation;LEO;538;558;45;95.6;1;22.03.2021;;Rocket Lab Launch Complex 1;Electron;Care Weather Technologies;USA
 Velox 2;;Civil;Technology Development;LEO;537;550;14.98;95.48;13;16.12.2015;;Satish Dhawan Space Centre;PSLV-C29;Nanyang Technological University;Singapore
 Velox C1;;Civil;Technology Development;LEO;533;550;14.98;95.48;123;16.12.2015;;Satish Dhawan Space Centre;PSLV-C29;Nanyang Technological University;Singapore
-Venµs;Israel;Government;Earth Observation;LEO;719;724;98.3;99.2;264;01.08.2017;4.5;Guiana Space Center;Vega;Centre National d'Etudes Spatiales (CNES)/Israel Space Agency;Multinational
+VenÂµs;Israel;Government;Earth Observation;LEO;719;724;98.3;99.2;264;01.08.2017;4.5;Guiana Space Center;Vega;Centre National d'Etudes Spatiales (CNES)/Israel Space Agency;Multinational
 ViaSat-1;USA;Commercial;Communications;GEO;35775;35796;0.04;1436.09;6740;19.10.2011;15;Baikonur Cosmodrome;Proton M;ViaSat, Inc.;USA
 ViaSat-2;United Kingdom;Commercial;Communications;GEO;35785;35787;0;1436.1;6418;01.06.2017;14;Guiana Space Center;Ariane 5;ViaSat, Inc.;USA
 Vinasat 1;;Government;Communications;GEO;35782;35791;0.02;1436.1;2600;18.04.2008;15;Guiana Space Center;Ariane 5 ECA;Vietnamese Posts and Telecommunications Group (VNPT);Vietnam
