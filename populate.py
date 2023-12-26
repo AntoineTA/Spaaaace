@@ -2,12 +2,19 @@ import os, sys, csv
 import django
 from datetime import datetime
 
+# DISABLE_COLLECTSTATIC = 1
+
+# BASE_DIR = Path(__file__).resolve().parent
+
 # setup script
+# settingsPath = os.path.join(BASE_DIR, "Spaaaace.settings")
+# print(settingsPath)
 os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'Spaaaace.settings')
 django.setup()
 
 from earthsat.models import *
 
+# data_file = os.path.join(BASE_DIR, "satellites.csv")
 data_file = 'satellites.csv'
 
 # delete all existing data before importing
